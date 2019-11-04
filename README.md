@@ -5,4 +5,7 @@ ResNet, as I did not find anything for plug- and play to generate a figure for m
 
 Feel free to use, modify, distribute.
 
+This is the jupyter noteobok (Python3 w/ OpenCV, pyTorch, matplotlib)
+[ClassActivationMaps_Demo_Resnet18.ipynb](ClassActivationMaps_Demo_Resnet18.ipynb)
+
  - Marc
